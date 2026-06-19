@@ -22,7 +22,7 @@
 
     Bad visualization: https://public.tableau.com/app/profile/bo.mccready8742/viz/SportsSeasonality/SportsSeasonality
 
-    I think “Sports Seasonality” is not a bad data visualization because it tries to show too much detail without making its main point clear. It displays every day of the year, but this level of detail does not help the viewer. Instead, the chart looks crowded and makes the reader sort through hundreds of marks, even though the main seasonal patterns could be shown in a simpler way.
+    I think “Sports Seasonality” is a bad data visualization because it tries to show too much detail without making its main point clear. It displays every day of the year, but this level of detail does not help the viewer. Instead, the chart looks crowded and makes the reader sort through hundreds of marks, even though the main seasonal patterns could be shown in a simpler way.
     
     The way the chart is arranged vertically also makes it hard to compare things. Because each month is in its own vertical column, it is difficult for readers to see how long each sports season lasts or how intense they are throughout the year. If the chart used a single horizontal timeline, it would be easier to see when each season starts and ends, which sports overlap, and how the number of games changes from month to month.
     
@@ -32,10 +32,15 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
-      The visualization could be improved by separating its two types of information. First, it could show a simple monthly comparison of the number of games played in each sport. This would make it easier to see differences in volume, especially the much larger number of baseball games. A second visualization could show when each sport is played during the year, using circles to represent the number of games and make them proportional to the actual values.
+      Good visualization: 
+      The visualization could still be improved in three ways. First, some of the text is quite small, which may make it difficult to read, so I will suggest increasing the font size. Second, the visualization should include a clearer source of the data. Third, it could distinguish more clearly between World Cup penalty shootouts and penalty shootouts from other tournaments. This distinction would help readers understand whether England’s reputation is mostly based on World Cup performance or on a broader history across different competitions.
+
+      Bad visualization:
+      The visualization “Sports Seasonality” could be improved by separating its two types of information. First, it could show a simple monthly comparison of the number of games played in each sport. This would make it easier to see differences in volume, especially the much larger number of baseball games. A second visualization could show when each sport is played during the year, using circles to represent the number of games and make them proportional to the actual values.
       
       Most importantly, the visualization should be built around a clear question, such as which months have the most games, which sports overlap during the year, or how the number of games changes across sports. 
+
+
 
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
